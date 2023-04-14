@@ -19,7 +19,7 @@ public class Carta
     public Carta() 
     {
         this.valor = 0;
-        this.figura = "";
+        this.figura = "Corazon";
     }
 
     public int getValor() {

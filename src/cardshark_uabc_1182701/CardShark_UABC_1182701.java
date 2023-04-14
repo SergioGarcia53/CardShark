@@ -7,6 +7,7 @@ import java.util.Random;
 public class CardShark_UABC_1182701 {
     public static void main(String[] args) 
     {
+        System.out.println(""+args[0]);        
     Baraja Mazo=new Baraja();
     Carta cartaJ1=new Carta();
     Carta cartaJ2=new Carta();
